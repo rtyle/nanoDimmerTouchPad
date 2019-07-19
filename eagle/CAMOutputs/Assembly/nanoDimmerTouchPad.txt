@@ -1,0 +1,15 @@
+Partlist exported from C:/Users/ross/Documents/EAGLE/projects/nanoDimmerTouchPad/nanoDimmerTouchPad.sch at 7/19/2019 2:39 PM
+
+Qty Value           Device          Package      Parts Description                MF MPN          OC_FARNELL OC_NEWARK SPICEPREFIX
+1   0.1µF           C-US025-024X044 C025-024X044 C1    CAPACITOR, American symbol                                      C          
+1   100Ω            R-US_0204/7     0204/7       R3    RESISTOR, American symbol                                       R          
+1   10kΩ            R-US_0204/7     0204/7       R2    RESISTOR, American symbol                                       R          
+1   10nF            C-US025-024X044 C025-024X044 C2    CAPACITOR, American symbol                                      C          
+1   3V3,GND         PINHD-1X2       1X02         IN    PIN HEADER                                                                 
+1   4k7Ω            R-US_0204/7     0204/7       R1    RESISTOR, American symbol                                       R          
+1   AT42QT1010SOT23 AT42QT1010SOT23 SOT23-6      TOUCH Atmel AT42QT1010                                                           
+1   LED             PINHD-1X1       1X01         LED   PIN HEADER                                                                 
+1   LED-            PINHD-1X1       1X01         LED-  PIN HEADER                                                                 
+1   PAD             PINHD-1X1       1X01         PAD   PIN HEADER                                                                 
+1   PC817           PC817           DIL04        OPTO  SHARP OPTO COUPLER            PC817X4J000F 9707727    97K7059              
+1   S1,COM          PINHD-1X2       1X02         OUT   PIN HEADER                                                                 

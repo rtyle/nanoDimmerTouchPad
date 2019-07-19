@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2019-07-17T16:21:23Z",
+        "CreationDate": "2019-07-19T21:39:31Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,7 +13,7 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "NanoDimmerTouchPad"
+            "ProjectId": "nanoDimmerTouchPad"
         },
         "Owner": "Ross Tyler <rossetyler@gmail.com>",
         "Size": {
